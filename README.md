@@ -10,10 +10,12 @@ The dataset on which the project has been build is present in the repository.
 Develop an application to demonstrate how the Automotive Industry could harness data to take informed decisions.
 
 # **Description**
-The application displays various statistics, graphs and answer some specific queries.
+The application displays various statistics, graphs and answer some specific queries. The jupyter notebook is converted to a web application using Voilà Jupyter. Voilà helps communicate insights by transforming notebooks into secure, stand-alone web applications that you can customize and share.
 
 # **Techstack Used**
 python - version 3.8.8 or greater
+Jupyter Notebook
+Voilà Jupyter
 
 Other requirements are mentioned in the requirements.txt file
 
