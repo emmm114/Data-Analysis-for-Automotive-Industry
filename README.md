@@ -22,7 +22,7 @@ Voilà Jupyter
 Other requirements are mentioned in the requirements.txt file
 
 # **Instructions to run the web application on local machine**
-* Ensure that all requiremnets are met and the jupyter notebook is downloaded on your local machine.
+* Ensure that all requiremnets are met and the jupyter notebook and Voilà is downloaded on your local machine.
 * Go to the directory where the files are stored and use the following command in the command prompt: Voila project_back_end_code.ipynb
 
 ![](images/voila%20code.png)
